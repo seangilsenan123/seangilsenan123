@@ -132,10 +132,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:sgilsenan123@gmail.com"
+      url: "mailto:sgilsenan123@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/sean-gilsenan1"
+      url: "https://www.linkedin.com/in/sean-gilsenan1"
 
 
 # Reading Files
